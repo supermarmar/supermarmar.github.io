@@ -20,7 +20,7 @@ Built as a practical resource for analysts and teams wanting clean, production-r
 
 #### [Agnify Crop Modelling & Forecasting Suite](https://github.com/supermarmar/agnify)
 
-<img src="images/agnify_thumbnail.jpg?raw=true"/>
+<img src="images/agnify_thumbnail.png?raw=true"/>
 
 End-to-end modelling framework developed for **Agnify**, an agri-analytics startup.
 Includes yield-forecasting notebooks, soil-moisture analysis, price-risk modelling, data ingestion pipelines and a PowerBI dashboard.
