@@ -8,7 +8,7 @@
 
 #### [Credit Risk Modelling Code Library (Guides Repo)](https://github.com/supermarmar/guides)
 
-<img src="images/credit_risk_code_library.jpg?raw=true"/>
+<img src="images/credit_risk_code_library.png?raw=true"/>
 
 A comprehensive, modular collection of reusable credit-risk modelling components.
 Includes PD/LGD/EAD pipelines, scorecard templates, data validation, model governance utilities, and step-by-step guidance for developing IRB-aligned models.
