@@ -1,35 +1,36 @@
+---
+
 ## Portfolio
 
 ---
 
-### Category Name 1 
+### Credit Risk
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [Credit Risk Modelling Code Library (Guides Repo)](https://github.com/supermarmar/guides)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/credit_risk_code_library.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A comprehensive, modular collection of reusable credit-risk modelling components.
+Includes PD/LGD/EAD pipelines, scorecard templates, data validation, model governance utilities, and step-by-step guidance for developing IRB-aligned models.
+Built as a practical resource for analysts and teams wanting clean, production-ready examples.
 
 ---
 
-### Category Name 2
+### Data Science & Applied AI
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#### [Agnify Crop Modelling & Forecasting Suite](https://github.com/supermarmar/agnify)
 
----
+<img src="images/agnify_thumbnail.jpg?raw=true"/>
 
-
+End-to-end modelling framework developed for **Agnify**, an agri-analytics startup.
+Includes yield-forecasting notebooks, soil-moisture analysis, price-risk modelling, data ingestion pipelines and a PowerBI dashboard.
+Designed to help farmers and agri-businesses make proactive, data-driven operational decisions.
 
 
 ---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+---
+
+If you'd like, I can also generate **one-liners**, **badges**, or a **hero section** for the top of your profile.
