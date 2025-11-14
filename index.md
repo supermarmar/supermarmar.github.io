@@ -6,7 +6,7 @@
 
 ### Credit Risk
 
-#### [Credit Risk Modelling Code Library (Guides Repo)](hhttps://supermarmar.github.io/guides)
+#### [Credit Risk Modelling Code Library (Guides Repo)](https://supermarmar.github.io/guides)
 
 <img src="images/credit_risk_code_library.png?raw=true"/>
 
