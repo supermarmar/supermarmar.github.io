@@ -1,5 +1,5 @@
 title: Mario Ervedosa # your name (or website title) here
-logo: "/images/mario.jpg" # your photo (or logo) here
+logo: "/images/mario.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Actuary and data scientist with 4+ years of experience in credit risk modelling, workforce analytics, and advanced data science applications.
   <br><br>
