@@ -1,13 +1,11 @@
 title: Mario Ervedosa # your name (or website title) here
 logo: "/images/mario.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Actuary and data scientist with 4+ years of experience in credit risk modelling, workforce analytics, and advanced data science applications.
-  <br><br>
-  Experienced in managing large datasets, building reproducible model pipelines, and translating complex statistical outputs into actionable business insights.
-  <br><br>
-  Skilled in consulting, client engagement, and project delivery across multiple sectors, including financial services, insurance, mining, public sector, and agriculture. 
+  I’m Mario Ervedosa, an actuary and data scientist with 4+ years of experience in credit risk modelling and analytics.
   <br><br>
   <a href="https://www.linkedin.com/in/marioervedosa/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://github.com/supermarmar">View My GitHub Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
