@@ -2,21 +2,15 @@
 
 ## Actuary | Data Scientist | Credit Risk Specialist
 
-📧 [mario.ervedosa@gmail.com](mailto:mario.ervedosa@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/marioervedosa/) | 💻 [GitHub](https://github.com/supermarmar)
-
-## Professional Summary
-
 Actuary  and  data  scientist  with  experience  in  credit  risk modelling, workforce analytics, and advanced data science applications. Experienced  in  managing  large  datasets,  building  reproducible  model pipelines,  and  translating  complex  statistical  outputs  into  actionable business  insights.  Skilled  in  consulting,  client  engagement,  and  project delivery  across  multiple  sectors,  including  financial  services,  insurance, mining,  public  sector,  and  agriculture. In my spare time I play tennis, go to Catholic seminars and watch sports.
 
 ---
 
 ## Tech Stack
 
-**Cloud & Tools:** PowerBI | Git | Jupyter | Excel
-
-**Programming Languages:** Python | SQL | VBA | SAS | Git
-
-**Python Libraries:** polars | pandera | seaborn | plotly | duckdb | pyspark | statsmodels | scikit-learn | shap | papermill
+- **Cloud & Tools:** PowerBI | Git | Jupyter | Excel
+- **Programming Languages:** Python | SQL | VBA | SAS | Git
+- **Python Libraries:** polars | pandera | seaborn | plotly | duckdb | pyspark | statsmodels | scikit-learn | shap | papermill
 
 ---
 
