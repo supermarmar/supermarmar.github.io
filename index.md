@@ -8,9 +8,11 @@ Actuary  and  data  scientist  with  experience  in  credit  risk modelling, wor
 
 ## Tech Stack
 
-- **Cloud & Tools:** PowerBI \| Git \| Jupyter \| Excel
-- **Programming Languages:** Python \| SQL \| VBA \| SAS \| Git
-- **Python Libraries:** polars \| pandera \| seaborn \| plotly \| duckdb \| pyspark \| statsmodels \| scikit-learn \| shap \| papermill
+**Cloud & Tools:** PowerBI \| Git \| Jupyter \| Excel
+
+**Programming Languages:** Python \| SQL \| VBA \| SAS \| Git
+
+**Python Libraries:** polars \| pandera \| seaborn \| plotly \| duckdb \| pyspark \| statsmodels \| scikit-learn \| shap \| papermill
 
 ---
 
@@ -28,13 +30,13 @@ Designed and maintained a credit risk code library in Azure using Python, applyi
 
 ---
 
-#### Predictive Analytics for Facebook & Google Ad Campaigns in Insurance
+### [Predictive Analytics for Facebook & Google Ad Campaigns in Insurance]((/pdf/fountai_dashboard.pdf))
 
 *Mar 2025 - Apr 2025*
 
 <img src="images/fountai_dashboard.png?raw=true"/>
 
-*[View Dashboard →](/pdf/agnify_dashboard.pdf)*
+*[View Dashboard →](/pdf/fountai_dashboard.pdf)*
 
 Developed and validated generalised linear models on Facebook and Google marketing data for US insurers to evaluate performance across demographic and regional dimensions. Applied advanced techniques (residual analysis, goodness-of-fit tests, cross-validation, feature engineering) to generate actionable insights and improve campaign efficiency.
 
