@@ -33,4 +33,3 @@ Designed to help farmers and agri-businesses make proactive, data-driven operati
 
 ---
 
-If you'd like, I can also generate **one-liners**, **badges**, or a **hero section** for the top of your profile.
