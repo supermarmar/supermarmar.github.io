@@ -8,9 +8,9 @@ Actuary  and  data  scientist  with  experience  in  credit  risk modelling, wor
 
 ## Tech Stack
 
-- **Cloud & Tools:** PowerBI | Git | Jupyter | Excel
-- **Programming Languages:** Python | SQL | VBA | SAS | Git
-- **Python Libraries:** polars | pandera | seaborn | plotly | duckdb | pyspark | statsmodels | scikit-learn | shap | papermill
+- **Cloud & Tools:** PowerBI \| Git \| Jupyter \| Excel
+- **Programming Languages:** Python \| SQL \| VBA \| SAS \| Git
+- **Python Libraries:** polars \| pandera \| seaborn \| plotly \| duckdb \| pyspark \| statsmodels \| scikit-learn \| shap \| papermill
 
 ---
 
@@ -24,7 +24,7 @@ Actuary  and  data  scientist  with  experience  in  credit  risk modelling, wor
 
 Designed and maintained a credit risk code library in Azure using Python, applying best practices from data science and actuarial modelling. The library streamlined model development workflows for IFRS 9 and IRB, ensured reproducibility and consistency across teams, and was advanced towards commercialisation for external clients as a reusable modelling toolkit.
 
-**Skills**: Azure DevOps Services | Basel III | Data Science | Machine Learning | IFRS9
+**Skills**: Azure DevOps Services \| Basel III \| Data Science \| Machine Learning \| IFRS9
 
 ---
 
@@ -38,7 +38,7 @@ Designed and maintained a credit risk code library in Azure using Python, applyi
 
 Developed and validated generalised linear models on Facebook and Google marketing data for US insurers to evaluate performance across demographic and regional dimensions. Applied advanced techniques (residual analysis, goodness-of-fit tests, cross-validation, feature engineering) to generate actionable insights and improve campaign efficiency.
 
-**Skills**: Digital Marketing | Data Science | Python | Generalised Linear Models
+**Skills**: Digital Marketing \| Data Science \| Python \| Generalised Linear Models
 
 ---
 
@@ -52,7 +52,7 @@ Developed and validated generalised linear models on Facebook and Google marketi
 
 Developed time series forecasting models to predict crop production trends using SARIMA (Seasonal ARIMA), Exponential Smoothing, and Prophet. Analyzed historical data to identify trends, seasonality, and patterns, enabling accurate production forecasts at both farmer, state and national levels. Support agricultural planning, resource allocation, and data-driven decision-making, ensuring stakeholders have actionable insights to anticipate and address changes in crop output.
 
-**Skills**: Python | Time Series Analysis | Agricultural Research | Microsoft Power BI
+**Skills**: Python \| Time Series Analysis \| Agricultural Research \| Microsoft Power BI
 
 ---
 
