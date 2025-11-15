@@ -6,7 +6,7 @@
 
 ### Credit Risk
 
-#### [Credit Risk Modelling Code Library (Guides Repo)](https://supermarmar.github.io/guides)
+#### [Credit Risk Modelling Code Library](https://supermarmar.github.io/guides)
 
 <img src="images/credit_risk_code_library.png?raw=true"/>
 
@@ -18,7 +18,7 @@ Built as a practical resource for analysts and teams wanting clean, production-r
 
 ### Data Science & Applied AI
 
-#### [Agnify Crop Modelling & Forecasting Suite](https://github.com/supermarmar/agnify)
+#### [Agnify Crop Modelling & Forecasting Suite](https://supermarmar.github.io/crop_modelling/)
 
 <img src="images/agnify_thumbnail.png?raw=true"/>
 
