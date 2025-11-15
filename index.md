@@ -1,6 +1,4 @@
-# Mario Ervedosa
-
-## Actuary | Data Scientist | Credit Risk Specialist
+# Actuary | Data Scientist | Credit Risk Specialist
 
 Actuary  and  data  scientist  with  experience  in  credit  risk modelling, workforce analytics, and advanced data science applications. Experienced  in  managing  large  datasets,  building  reproducible  model pipelines,  and  translating  complex  statistical  outputs  into  actionable business  insights.  Skilled  in  consulting,  client  engagement,  and  project delivery  across  multiple  sectors,  including  financial  services,  insurance, mining,  public  sector,  and  agriculture. In my spare time I play tennis, go to Catholic seminars and watch sports.
 
