@@ -1,4 +1,3 @@
-
 # Mario Ervedosa
 
 ## Actuary | Data Scientist | Credit Risk Specialist
@@ -76,3 +75,5 @@ Feel free to reach out via [email](mailto:mario.ervedosa@gmail.com) or connect w
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
+---
