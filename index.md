@@ -22,7 +22,7 @@ Actuary  and  data  scientist  with  experience  in  credit  risk modelling, wor
 
 <img src="images/credit_risk_code_library.png?" />
 
-Designed and maintained a credit risk code library in Azure using Python, applying best practices from data science and actuarial modelling. The library streamlined model development workflows for IFRS 9 and IRB, ensured reproducibility and consistency across teams, and was advanced towards commercialisation for external clients as a reusable modelling toolkit.
+Designed and maintained a credit risk code library, applying best practices from data science and actuarial modelling. The library streamlined model development workflows for IFRS 9 and IRB, ensured reproducibility and consistency across teams, and was advanced towards commercialisation for external clients as a reusable modelling toolkit.
 
 **Skills**: Azure DevOps Services \| Basel III \| Data Science \| Machine Learning \| IFRS9
 
